@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou Manoel Neto 👋🏾
 
-<!--
-**Netox39/Netox39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Desenvolvedor em formação  
+💡 Sempre aprendendo e construindo novos projetos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estudo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 📌 Sobre mim
+
+Atualmente estou focado em evoluir minhas habilidades em:
+
+- 🧠 Estruturação de APIs REST
+- 🔐 Segurança com Spring Security
+- ⚛️ Desenvolvimento Frontend com React
+- 🗄️ Banco de Dados MySQL
+- 🔄 Integração Backend + Frontend
+
+---
+
+## 📈 Objetivo
+
+Conseguir minha primeira oportunidade como Desenvolvedor e continuar evoluindo profissionalmente todos os dias.
+
+---
+
+## 📫 Contato
+
+📧 netox39@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/manoel-neto-7a8173180/
