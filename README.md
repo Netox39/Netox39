@@ -37,5 +37,5 @@ Conseguir minha primeira oportunidade como Desenvolvedor e continuar evoluindo p
 
 ## 📫 Contato
 
-📧 netox39@gmail.com  
+📧 E-Mail: netox39@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/manoel-neto-7a8173180/
